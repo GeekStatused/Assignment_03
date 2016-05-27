@@ -1,0 +1,5 @@
+Give two examples of data that cannot be stored in a variable of type int
+
+1. A type of data would be a DECIMAL such as 43.3 which would require a float or etc.
+2. String is another form of data that can not be used in type INT. such as "Hello, World"
+
